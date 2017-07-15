@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## What is this?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Its a github pages place to put some text up.  Pull requests encouraged.  There's nothing to it.
 
 ### Markdown
 
