@@ -1,6 +1,6 @@
 ## mhsemcheski.github.io
 
-[xmas](xms.semcheski.com)
+[xmas](http://xmas.semcheski.com)
 
 =======
 ## Welcome to GitHub Pages
