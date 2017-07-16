@@ -4,6 +4,6 @@
 
 [xmas](http://xmas.semcheski.com)
 
-[football](football.md)
+[football](football)
 
 [editing](editing.md)
